@@ -49,7 +49,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by Ousma333',
+CURLOPT_USERAGENT => 'DESCRIPTION by ZAKI',
 ));
 $ch=curl_exec($cx);
         curl_close($cx);
@@ -149,15 +149,7 @@ echo'
 <li>
  مــرحباً , تم تسجيلك بنجااح: <font color="red">'.$nm.'</font></li>
 <li>
-<a href="http://m.facebook.com/'.$id.'"><img src="https://graph.facebook.com/'.$id.'/picture" style="width:50px; height:50px;" alt="'.$nm.'"/></a></li>
-<li>
-<form action="index.php" method="post"><input type="hidden" name="logout" value="'.$id.'">
-<input type="submit" value="الخروج من البوت"></form></li>
-<li>
-<form action="index.php" method="post">
-اضغط على تشغيل لتشغيل البوت</li>
-<li>
-<select name="likes">';
+
         if($satu=='on'){
         echo'
 <option value="'.$satu.'">
