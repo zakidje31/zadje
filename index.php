@@ -314,8 +314,8 @@ echo'
 <span class="mfss fcg">
 <center>
 
-<a href="https://www.facebook.com/ousma333" alt="alihayder" target="_blank"><img
-src="https://graph.facebook.com/100011263261875/picture?type=large" 
+<a href="https://www.facebook.com/ZAKIBEN3199" alt="alihayder" target="_blank"><img
+src="https://graph.facebook.com/ZAKIBEN3199/picture?type=large" 
 alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 5px rgb(204, 204, 204); padding: 0px;" width="200height="150
 
 
@@ -353,7 +353,7 @@ echo'
 <br>
 <a href="https://developers.facebook.com/tools/debug/accesstoken/?app_id=41158896424" target="_blank" style="text-decoration: none;"><input type="button" value="Get Token" style="border: 0;color: #fff;border-radius: 0 3px 3px 0;padding: 7px 8px 7px 9px;font-size: 12px;font-weight: bold;margin-left: -3px;box-shadow: inset 0 -2px 0px rgba(0,0,0,0.11);;margin-top: 10px;background: #ff0000;color: white;"> </a>
 <br>
-<a href="https://www.facebook.com/ousma333" target="_blank" style="text-decoration: none;"><input type="button" value="اضعط هنا لتوصل ع فيس بوك" style="border: 0;color: #fff;border-radius: 0 3px 3px 0;padding: 7px 8px 7px 9px;font-size: 12px;font-weight: bold;margin-left: -3px;box-shadow: inset 0 -2px 0px rgba(0,0,0,0.11);;margin-top: 10px;background: #ff0000;color: white;"> </a>
+<a href="https://www.facebook.com/ZAKIBEN3199" target="_blank" style="text-decoration: none;"><input type="button" value="اضعط هنا لتوصل ع فيس بوك" style="border: 0;color: #fff;border-radius: 0 3px 3px 0;padding: 7px 8px 7px 9px;font-size: 12px;font-weight: bold;margin-left: -3px;box-shadow: inset 0 -2px 0px rgba(0,0,0,0.11);;margin-top: 10px;background: #ff0000;color: white;"> </a>
 <br>
 
 <br>
@@ -454,6 +454,6 @@ if($_GET[token]){
 }
 ?>
 
-حسابي للتواصل: <a href="https://www.facebook.com/ousma333"><font color="red">اضغط هنا</font></a></div>
+حسابي للتواصل: <a href="https://www.facebook.com/ZAKIBEN3199"><font color="red">اضغط هنا</font></a></div>
 
 
